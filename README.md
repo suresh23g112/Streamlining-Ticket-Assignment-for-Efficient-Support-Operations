@@ -8,6 +8,18 @@ By leveraging ServiceNow's powerful platform features, this solution improves fi
 
 ---
 
+ Demo 📺 Watch Demo: 
+
+👥 Team Members/team id : NM2025TMID13007
+
+SURESH .B– ServiceNow Developer and Demo video and Deployment
+
+TAMILSELVAN M – UI/UX & Form Designer
+
+THIRUNAVUKARASU S – Client Scripts & Table Developer
+
+VIGNESH R– Testing & Documentation
+
 ## Key Features
 - **Automated Assignment Rules:** Dynamically route incidents, requests, or cases to the right agents or groups.
 - **Skill-Based Assignment:** Match tickets to agents with the necessary expertise using ServiceNow skills and roles.
